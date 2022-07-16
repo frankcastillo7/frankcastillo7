@@ -1,9 +1,16 @@
+<p align="center" >
+  <samp>
+    Univerdidad Mariano Gálvez, Guatemala
+  <br/> Campus Jutiapa
+    <br/> Ingenieria en Sistemas y Ciencias de la Computación
+  </samp>
+
 ### Hola 👋, Bienvenido a mi repositorio
 
 <br />     
 <br />
 
-<h3> Soy estudiante de la Universidad Mariano Gálvez, tengo todo la iniciativa en organizar las ideas y poder llegar al edjotivo de aprender a desarrollar en diferentes lenguades de progrmación 🌍 podran visualizar mis proyectos esta bitacora👨🏽‍💼.</h3>
+<h3> Soy estudiante de Ingennieria en Sistemas, tengo todo la iniciativa en organizar las ideas y poder llegar al edjotivo de aprender a desarrollar en diferentes lenguades de progrmación 🌍 podran visualizar mis proyectos esta bitacora👨🏽‍💼.</h3>
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
