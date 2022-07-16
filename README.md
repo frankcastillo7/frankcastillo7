@@ -15,8 +15,8 @@
 
 <br />
 <br />
-
-Soy estudiante de dasarrollo web, de la Universidad Mariano Galvez, tengo todo la iniciativa en organizar las ideas y poder llegar al edjotivo de aprender a desarrollar en diferentes lenguades de progrmacion 🌍 y poder seguir aprendindo de sus aportes en esta bitacora👨🏽‍💼. 
+h1
+Soy estudiante de dasarrollo web, de la Universidad Mariano Gálvez, tengo todo la iniciativa en organizar las ideas y poder llegar al edjotivo de aprender a desarrollar en diferentes lenguades de progrmación 🌍 y poder seguir aprendindo de sus aportes en esta bitacora👨🏽‍💼. h1
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
