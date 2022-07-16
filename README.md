@@ -1,18 +1,5 @@
 ### Hola 👋, Bienvenido a mi repositorio
 
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.kaggle.com/mehdimabrouki">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<a href="https://www.instagram.com/mabroukimehdi/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/mehdi.mabrouki1">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
 <br />     
 <br />
 
@@ -22,16 +9,16 @@
 
 **Detalles del Estudiante:**
 
-- 👨🏽‍💻 <h1> Frank Kenedy Vidal Castillo Herrarte </h1>
+- 👨🏽‍💻 <h3> Frank Kenedy Vidal Castillo Herrarte </h3>
 - 🌱 <h1> Desarrollo Web </h1>
 
 
-- 🤔 <h1> Programas que utilizaremos en este curso</h1>
-- 💼 <h1> Visual Studio Code </h1>
-- 💬 <h1> Git Github </h1>
-- 📫 <h1> Java scrib </h1>
-- 📝 <h1> Paython </h1>
-
+- 🤔 <h2> Programas que utilizaremos en este curso</h2>
+- 💼 <h3> Visual Studio Code </h3>
+- 💬 <h3> Git Github </h3>
+- 📫 <h3> Java scrib </h3>
+- 📝 <h3> Paython </h3>
+-📝 <h3> SQL Server </h3>
 
 **Languages and Tools:**  
 
