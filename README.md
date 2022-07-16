@@ -2,7 +2,7 @@
   <samp>
     Univerdidad Mariano Gálvez, Guatemala
   <br/> Campus Jutiapa
-    <br/> Ingenieria en Sistemas y Ciencias de la Computación
+    <br/> Ingenieria en Sistema de Información y Ciencias de la Computación
   </samp>
 
 ### Hola 👋, Bienvenido a mi repositorio
