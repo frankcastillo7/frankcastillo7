@@ -5,15 +5,15 @@
 
 <h3> Soy estudiante de la Universidad Mariano Gálvez, tengo todo la iniciativa en organizar las ideas y poder llegar al edjotivo de aprender a desarrollar en diferentes lenguades de progrmación 🌍 podran visualizar mis proyectos esta bitacora👨🏽‍💼.</h3>
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://www.comunicare.es/desarrollo-web-en-la-actualidad/)" />
 
 **Detalles del Estudiante:**
 
 - 👨🏽‍💻 <h3> Frank Kenedy Vidal Castillo Herrarte </h3>
-- 🌱 <h1> Desarrollo Web </h1>
+- 🌱 <h3> Desarrollo Web </h3>
 
 
-- 🤔 <h2> Programas que utilizaremos en este curso</h2>
+**Programas que utilizaremos en este curso**
 - 💼 <h3> Visual Studio Code </h3>
 - 💬 <h3> Git Github </h3>
 - 📫 <h3> Java scrib </h3>
