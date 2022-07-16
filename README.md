@@ -16,8 +16,7 @@
 <br />
 <br />
 
-Soy estudiante de dasarrollo web, de la Universidad Mariano Galvez, tengo todo la iniciativa en organizar las ideas y poder llegar al edjotivo de aprender a desarrollar en diferentes lenguades de progrmacion.
-Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Tunisia.  Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼. 
+Soy estudiante de dasarrollo web, de la Universidad Mariano Galvez, tengo todo la iniciativa en organizar las ideas y poder llegar al edjotivo de aprender a desarrollar en diferentes lenguades de progrmacion 🌍 y poder seguir aprendindo de sus aportes en esta bitacora👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
